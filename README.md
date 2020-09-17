@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm thanai from (dev.)thanaism.com
 
 <!-- バッジ関連 -->
 <!--
@@ -6,6 +6,8 @@
 GitHub view：https://github.com/antonkomarev/github-profile-views-counter
 Qiita contributions：https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50
  -->
+
+💻 **Other my accounts ...**
 
 <p align="left">
 
@@ -32,87 +34,14 @@ Qiita contributions：https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50
   </a>
 </p>
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-236515%20lines%20of%20code-blue)
+🍎 **My GitHub overview ...**
 
-**🐱 My Github Data** 
-
-> 🏆 145 Contributions in the Year 2020
- > 
-> 📦 16.3 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 10 Public Repositories
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    42 commits     ████████░░░░░░░░░░░░░░░░░   34.71% 
-🌆 Daytime    53 commits     ███████████░░░░░░░░░░░░░░   43.8% 
-🌃 Evening    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       31 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
-Tuesday      23 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.01% 
-Wednesday    20 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.53% 
-Thursday     22 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Friday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Saturday     8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.61% 
-Sunday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.96%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-JavaScript               1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Swift                    1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-VBA                      1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/thanaism/thanaism/blob/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
 <!-- GitHubトロフィー -->
 <!--
 https://github.com/ryo-ma/github-profile-trophy
  -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thanaism)](https://github.com/thanaism/thanaism)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=thanaism)](https://github.com/thanaism/thanaism) -->
 
 <!-- GitHubステータス -->
 <!--
@@ -128,7 +57,8 @@ https://github.com/anuraghazra/github-readme-stats
 https://rahuldkjain.github.io/gh-profile-readme-generator/
  -->
 
-- 🌱 I’m currently learning ...
+🌱 **I’m currently learning ...**
+
 <!-- #### Language and Tools -->
 
 <p align="left">
@@ -165,3 +95,78 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
   <!-- aws -->
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </p>
+
+<!--START_SECTION:waka-->
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-236515%20lines%20of%20code-blue)
+
+**🐱 My Github Data**
+
+> 🏆 145 Contributions in the Year 2020
+>
+> 📦 16.3 kB Used in Github's Storage
+>
+> 🚫 Not Opted to Hire
+>
+> 📜 10 Public Repositories
+>
+> 🔑 1 Private Repository
+>
+> **I'm an Early 🐤**
+
+```text
+🌞 Morning    42 commits     ████████░░░░░░░░░░░░░░░░░   34.71%
+🌆 Daytime    53 commits     ███████████░░░░░░░░░░░░░░   43.8%
+🌃 Evening    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18%
+🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31%
+
+```
+
+📅 **I'm Most Productive on Monday**
+
+```text
+Monday       31 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62%
+Tuesday      23 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.01%
+Wednesday    20 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.53%
+Thursday     22 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18%
+Friday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+Saturday     8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.61%
+Sunday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.96%
+
+```
+
+📊 **This Week I Spent My Time On**
+
+```text
+⌚︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages:
+No Activity Tracked This Week
+
+🔥 Editors:
+No Activity Tracked This Week
+
+🐱‍💻 Projects:
+No Activity Tracked This Week
+
+💻 Operating System:
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in TypeScript**
+
+```text
+TypeScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
+Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
+JavaScript               1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+Swift                    1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+VBA                      1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+
+```
+
+**Timeline**
+
+![Chart not found](https://github.com/thanaism/thanaism/blob/master/charts/bar_graph.png)
+
+<!--END_SECTION:waka-->
