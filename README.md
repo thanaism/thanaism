@@ -33,6 +33,79 @@ Qiita contributions：https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50
 </p>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 145 Contributions in the Year 2020
+ > 
+> 📦 16.3 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    42 commits     █████████░░░░░░░░░░░░░░░░   35.59% 
+🌆 Daytime    50 commits     ██████████░░░░░░░░░░░░░░░   42.37% 
+🌃 Evening    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.64% 
+🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       31 commits     ██████░░░░░░░░░░░░░░░░░░░   26.27% 
+Tuesday      23 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.49% 
+Wednesday    20 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
+Thursday     19 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.1% 
+Friday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.32% 
+Saturday     8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.78% 
+Sunday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.08%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+JavaScript               1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Swift                    1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+VBA                      1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/thanaism/thanaism/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 <!-- GitHubトロフィー -->
 <!--
