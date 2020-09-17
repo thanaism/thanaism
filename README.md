@@ -1,21 +1,5 @@
 ### Hi there 👋
 
-<!-- GitHubトロフィー -->
-<!--
-https://github.com/ryo-ma/github-profile-trophy
- -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=thanaism)](https://github.com/thanaism/thanaism)
-
-<!-- GitHubステータス -->
-<!--
-https://github.com/anuraghazra/github-readme-stats
- -->
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thanaism&count_private=true&show_icons=true)](https://github.com/thanaism/thanaism)
-
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thanaism&repo=thanaism)](https://github.com/thanaism/thanaism) -->
-
 <!-- バッジ関連 -->
 <!--
 メイン：https://shields.io/category/social
@@ -47,6 +31,24 @@ Qiita contributions：https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50
     <img height="20" src="https://qiita-badge.apiapi.app/s/thanai/contributions.svg" />
   </a>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<!-- GitHubトロフィー -->
+<!--
+https://github.com/ryo-ma/github-profile-trophy
+ -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=thanaism)](https://github.com/thanaism/thanaism)
+
+<!-- GitHubステータス -->
+<!--
+https://github.com/anuraghazra/github-readme-stats
+ -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thanaism&count_private=true&show_icons=true)](https://github.com/thanaism/thanaism)
+
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thanaism&repo=thanaism)](https://github.com/thanaism/thanaism) -->
 
 <!--
 **thanaism/thanaism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
