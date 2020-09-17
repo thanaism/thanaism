@@ -50,27 +50,13 @@ https://github.com/anuraghazra/github-readme-stats
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thanaism&repo=thanaism)](https://github.com/thanaism/thanaism) -->
 
-<!--
-**thanaism/thanaism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- Skill icons -->
 <!--
 https://rahuldkjain.github.io/gh-profile-readme-generator/
  -->
 
-## Language and Tools
+- 🌱 I’m currently learning ...
+<!-- #### Language and Tools -->
 
 <p align="left">
   <!-- python -->
