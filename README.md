@@ -7,33 +7,6 @@ GitHub view：https://github.com/antonkomarev/github-profile-views-counter
 Qiita contributions：https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50
  -->
 
-💻 **Other my accounts ...**
-
-<p align="left">
-
-  <a href="https://github.com/thanaism/thanaism/">
-    <img src="https://komarev.com/ghpvc/?username=thanaism" alt="thanaism" />
-  </a>
-  <a href="http://twitter.com/okinawa__noodle">
-    <img height="20" src="https://img.shields.io/twitter/follow/okinawa__noodle?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/thanaism">
-    <img height="20" src="https://img.shields.io/github/followers/thanaism?label=follow&logo=github&style=flat" />
-  </a>
-  <!-- <a href="https://www.reddit.com/user/thanaism">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/thanaism?label=Reddit&logo=reddit&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/5720201/thanaism">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" /> -->
-  </a>
-  <a href="http://qiita.com/thanai">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/thanai/posts.svg" />
-  </a>
-  <//qiita.com/thanai">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/thanai/contributions.svg" />
-  </a>
-</p>
-
 🍎 **My GitHub overview ...**
 
 <!-- GitHubトロフィー -->
@@ -96,6 +69,32 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </p>
 
+💻 **Contributions overview ...**
+
+<p align="left">
+
+  <a href="https://github.com/thanaism/thanaism/">
+    <img src="https://komarev.com/ghpvc/?username=thanaism" alt="thanaism" />
+  </a>
+  <a href="http://twitter.com/okinawa__noodle">
+    <img height="20" src="https://img.shields.io/twitter/follow/okinawa__noodle?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/thanaism">
+    <img height="20" src="https://img.shields.io/github/followers/thanaism?label=follow&logo=github&style=flat" />
+  </a>
+  <!-- <a href="https://www.reddit.com/user/thanaism">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/thanaism?label=Reddit&logo=reddit&style=flat" />
+  </a>
+  <a href="https://stackoverflow.com/users/5720201/thanaism">
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" /> -->
+  </a>
+  <a href="http://qiita.com/thanai">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/thanai/posts.svg" />
+  </a>
+  <//qiita.com/thanai">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/thanai/contributions.svg" />
+  </a>
+</p>
 <!--START_SECTION:waka-->
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-236515%20lines%20of%20code-blue)
