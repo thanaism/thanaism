@@ -99,7 +99,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 480 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 19.3 kB Used in Github's Storage 
  > 
