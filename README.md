@@ -60,7 +60,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 331 Contributions in the Year 2021
  > 
 > 📦 31.1 kB Used in Github's Storage 
  > 
@@ -126,5 +126,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2021
+ Last Updated on 13/08/2021
 <!--END_SECTION:waka-->
