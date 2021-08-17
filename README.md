@@ -60,7 +60,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 334 Contributions in the Year 2021
+> 🏆 335 Contributions in the Year 2021
  > 
 > 📦 31.1 kB Used in Github's Storage 
  > 
@@ -82,8 +82,8 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.73% 
-Tuesday      32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
+Monday       37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
+Tuesday      33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.79% 
 Wednesday    34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
 Thursday     46 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.83% 
 Friday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.53% 
@@ -127,5 +127,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2021
+ Last Updated on 17/08/2021
 <!--END_SECTION:waka-->
