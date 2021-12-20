@@ -97,16 +97,16 @@ Sunday       49 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      52 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-online-judge             52 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      52 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -123,5 +123,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/12/2021
+ Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
