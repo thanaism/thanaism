@@ -97,16 +97,16 @@ Sunday       44 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 59 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-dev.thanaism             59 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      59 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -123,5 +123,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2022
+ Last Updated on 07/01/2022
 <!--END_SECTION:waka-->
