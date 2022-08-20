@@ -58,10 +58,12 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-906%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-912%20hrs%2010%20mins-blue)
 
 **🐱 My GitHub Data** 
 
+> 🏆 356 Contributions in the Year 2022
+ > 
 > 📦 38.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -130,5 +132,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2022 18:48:59 UTC
+ Last Updated on 20/08/2022 18:43:32 UTC
 <!--END_SECTION:waka-->
