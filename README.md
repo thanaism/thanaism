@@ -58,7 +58,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C084%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C084%20hrs%2036%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -99,16 +99,19 @@ Sunday       99 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Solidity                 20 mins             ███████████████░░░░░░░░░░   62.8% 
+Rust                     11 mins             █████████░░░░░░░░░░░░░░░░   36.29% 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  32 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dapper-contracts         20 mins             ███████████████░░░░░░░░░░   62.8% 
+start                    12 mins             █████████░░░░░░░░░░░░░░░░   37.2%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      32 mins             █████████████████████████   100.0%
 
 ```
 
@@ -125,5 +128,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2022 18:40:56 UTC
+ Last Updated on 20/11/2022 18:40:51 UTC
 <!--END_SECTION:waka-->
