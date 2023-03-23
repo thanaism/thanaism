@@ -64,7 +64,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 **🐱 My GitHub Data** 
 
-> 📦 38.3 kB Used in GitHub's Storage 
+> 📦 38.4 kB Used in GitHub's Storage 
  > 
 > 🏆 180 Contributions in the Year 2023
  > 
@@ -98,5 +98,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 22/03/2023 18:37:30 UTC
+ Last Updated on 23/03/2023 18:36:54 UTC
 <!--END_SECTION:waka-->
