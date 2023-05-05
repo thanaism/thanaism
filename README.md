@@ -60,13 +60,13 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C333%20hrs%2054%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 38.6 kB Used in GitHub's Storage 
  > 
-> 🏆 237 Contributions in the Year 2023
+> 🏆 239 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,17 +78,17 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               16 repos            █████████░░░░░░░░░░░░░░░░   35.56 % 
-Solidity                 4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Rust                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+TypeScript               17 repos            █████████░░░░░░░░░░░░░░░░   36.96 % 
+Solidity                 4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Rust                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
@@ -98,5 +98,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2023 18:34:58 UTC
+ Last Updated on 05/05/2023 18:35:09 UTC
 <!--END_SECTION:waka-->
