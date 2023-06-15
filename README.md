@@ -64,7 +64,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 **🐱 My GitHub Data** 
 
-> 📦 38.8 kB Used in GitHub's Storage 
+> 📦 38.9 kB Used in GitHub's Storage 
  > 
 > 🏆 610 Contributions in the Year 2023
  > 
@@ -78,7 +78,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,5 +98,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2023 18:35:51 UTC
+ Last Updated on 15/06/2023 18:35:10 UTC
 <!--END_SECTION:waka-->
