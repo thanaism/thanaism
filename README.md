@@ -58,7 +58,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C814%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C816%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.4%20million%20lines%20of%20code-blue)
 
@@ -66,7 +66,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 > 📦 39.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,695 Contributions in the Year 2023
+> 🏆 1,700 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,18 +78,18 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-Mac                      11 hrs 17 mins      █████████████████████░░░░   83.43 % 
-WSL                      2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Mac                      7 hrs 53 mins       ███████████████████░░░░░░   77.88 % 
+WSL                      2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               19 repos            ██████████░░░░░░░░░░░░░░░   38.78 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Solidity                 4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Rust                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+TypeScript               19 repos            ██████████░░░░░░░░░░░░░░░   39.58 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Solidity                 4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Rust                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
@@ -99,5 +99,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2023 18:35:12 UTC
+ Last Updated on 11/11/2023 18:34:51 UTC
 <!--END_SECTION:waka-->
