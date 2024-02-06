@@ -78,8 +78,8 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-WSL                      3 hrs 32 mins       ███████████████████░░░░░░   77.47 % 
-Mac                      1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+WSL                      2 hrs 23 mins       ███████████████████░░░░░░   77.95 % 
+Mac                      40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -99,5 +99,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2024 18:36:42 UTC
+ Last Updated on 06/02/2024 18:35:06 UTC
 <!--END_SECTION:waka-->
