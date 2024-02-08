@@ -66,8 +66,6 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 > 📦 48.1 kB Used in GitHub's Storage 
  > 
-> 🏆 139 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 45 Public Repositories 
@@ -78,8 +76,8 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-WSL                      1 hr 55 mins        ███████████████████░░░░░░   74.08 % 
-Mac                      40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+WSL                      42 mins             ███████████████████░░░░░░   76.25 % 
+Mac                      13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -99,5 +97,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 07/02/2024 18:35:00 UTC
+ Last Updated on 08/02/2024 18:36:10 UTC
 <!--END_SECTION:waka-->
