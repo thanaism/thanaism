@@ -58,13 +58,15 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C990%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C991%20hrs%2012%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 48.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 140 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,8 +78,8 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-WSL                      42 mins             ███████████████████░░░░░░   76.25 % 
-Mac                      13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+WSL                      44 mins             ███████████████████░░░░░░   77.23 % 
+Mac                      13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,5 +99,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2024 18:36:10 UTC
+ Last Updated on 09/02/2024 18:34:46 UTC
 <!--END_SECTION:waka-->
