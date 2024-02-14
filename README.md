@@ -66,6 +66,8 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 > 📦 48.1 kB Used in GitHub's Storage 
  > 
+> 🏆 147 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 45 Public Repositories 
@@ -97,5 +99,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2024 18:36:09 UTC
+ Last Updated on 14/02/2024 18:35:41 UTC
 <!--END_SECTION:waka-->
