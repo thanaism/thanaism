@@ -58,7 +58,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C113%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C120%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.8%20million%20lines%20of%20code-blue)
 
@@ -76,8 +76,8 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-WSL                      13 hrs 39 mins      ███████████████░░░░░░░░░░   59.78 % 
-Mac                      9 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.17 % 
+WSL                      11 hrs 50 mins      ██████████████░░░░░░░░░░░   54.97 % 
+Mac                      9 hrs 41 mins       ███████████░░░░░░░░░░░░░░   44.97 % 
 Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
@@ -98,5 +98,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2024 18:34:59 UTC
+ Last Updated on 01/04/2024 18:35:47 UTC
 <!--END_SECTION:waka-->
