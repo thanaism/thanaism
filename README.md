@@ -58,9 +58,9 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C150%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C152%20hrs%201%20min-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -76,18 +76,18 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-WSL                      5 hrs 56 mins       ██████████████░░░░░░░░░░░   56.41 % 
-Mac                      4 hrs 35 mins       ███████████░░░░░░░░░░░░░░   43.59 % 
+WSL                      6 hrs 31 mins       ████████████████░░░░░░░░░   65.92 % 
+Mac                      3 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.08 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               22 repos            ██████████░░░░░░░░░░░░░░░   41.51 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Solidity                 4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+TypeScript               21 repos            ██████████░░░░░░░░░░░░░░░   40.38 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Solidity                 4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 
@@ -97,5 +97,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2024 18:35:14 UTC
+ Last Updated on 22/04/2024 18:35:38 UTC
 <!--END_SECTION:waka-->
