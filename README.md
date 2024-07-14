@@ -58,15 +58,15 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C409%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C413%20hrs%209%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 50.6 kB Used in GitHub's Storage 
  > 
-> 🏆 495 Contributions in the Year 2024
+> 🏆 496 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,18 +78,18 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-WSL                      30 hrs 35 mins      ███████████████████████░░   90.36 % 
-Mac                      3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+WSL                      30 hrs 16 mins      ██████████████████████░░░   88.70 % 
+Mac                      3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               21 repos            ██████████░░░░░░░░░░░░░░░   39.62 % 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Solidity                 4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+TypeScript               21 repos            ██████████░░░░░░░░░░░░░░░   40.38 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Solidity                 3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 
@@ -99,5 +99,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2024 18:37:21 UTC
+ Last Updated on 14/07/2024 18:42:58 UTC
 <!--END_SECTION:waka-->
