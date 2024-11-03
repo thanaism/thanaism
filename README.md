@@ -58,36 +58,28 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C714%20hrs%2029%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 51.1 kB Used in GitHub's Storage 
+> 📦 51.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 723 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 47 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💻 Operating System: 
-WSL                      22 hrs 9 mins       ██████████████████████░░░   86.61 % 
-Mac                      3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               19 repos            ██████████░░░░░░░░░░░░░░░   38.00 % 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Solidity                 3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               19 repos            █████████░░░░░░░░░░░░░░░░   37.25 % 
+Rust                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
@@ -97,5 +89,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2024 18:40:51 UTC
+ Last Updated on 03/11/2024 18:39:38 UTC
 <!--END_SECTION:waka-->
