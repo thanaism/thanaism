@@ -58,7 +58,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C749%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C751%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.5%20million%20lines%20of%20code-blue)
 
@@ -66,28 +66,22 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 > 📦 51.7 kB Used in GitHub's Storage 
  > 
+> 🏆 761 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 47 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💻 Operating System: 
-Mac                      5 hrs 38 mins       ███████████████░░░░░░░░░░   61.93 % 
-WSL                      3 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   38.07 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               19 repos            █████████░░░░░░░░░░░░░░░░   37.25 % 
-Rust                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TypeScript               20 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
+Rust                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 
@@ -97,5 +91,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2024 18:44:31 UTC
+ Last Updated on 21/11/2024 18:42:23 UTC
 <!--END_SECTION:waka-->
