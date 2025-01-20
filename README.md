@@ -76,7 +76,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-Mac                      6 hrs 57 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,5 +96,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 19/01/2025 18:40:24 UTC
+ Last Updated on 20/01/2025 18:41:12 UTC
 <!--END_SECTION:waka-->
