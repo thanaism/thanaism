@@ -58,13 +58,15 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.6%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C802%20hrs%2055%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 67.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2,114 Contributions in the Year 2025
+> 🏆 2,129 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,5 +91,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 18:45:24 UTC
+ Last Updated on 29/09/2025 18:49:58 UTC
 <!--END_SECTION:waka-->
