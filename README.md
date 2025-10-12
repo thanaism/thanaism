@@ -58,15 +58,15 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C838%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C843%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 67.9 kB Used in GitHub's Storage 
+> 📦 67.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2,234 Contributions in the Year 2025
+> 🏆 2,236 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,7 +78,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-Mac                      15 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,5 +98,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2025 18:45:29 UTC
+ Last Updated on 12/10/2025 18:49:24 UTC
 <!--END_SECTION:waka-->
