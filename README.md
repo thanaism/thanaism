@@ -58,28 +58,37 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.23%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C988%20hrs%2022%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.24%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 69.3 kB Used in GitHub's Storage 
+> 📦 69.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2026
+> 🏆 3 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 48 Public Repositories 
+> 📜 49 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💻 Operating System: 
+Mac                      1 hr 4 mins         █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               37 repos            ████████████░░░░░░░░░░░░░   49.33 % 
-JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Rust                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Solidity                 4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+TypeScript               38 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Rust                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Solidity                 4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
 
 
@@ -89,5 +98,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:46:59 UTC
+ Last Updated on 04/01/2026 18:49:48 UTC
 <!--END_SECTION:waka-->
