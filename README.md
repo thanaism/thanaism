@@ -58,13 +58,13 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C182%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C184%20hrs%2051%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.47%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.58%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 71.6 kB Used in GitHub's Storage 
+> 📦 71.7 kB Used in GitHub's Storage 
  > 
 > 🏆 542 Contributions in the Year 2026
  > 
@@ -74,14 +74,21 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
  > 
 > 🔑 4 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💻 Operating System: 
+Mac                      6 hrs 57 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               43 repos            ██████████████░░░░░░░░░░░   55.13 % 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Rust                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Solidity                 4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+TypeScript               41 repos            █████████████░░░░░░░░░░░░   53.95 % 
+JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Rust                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Solidity                 4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
 
 
@@ -91,5 +98,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2026 19:33:07 UTC
+ Last Updated on 14/05/2026 19:30:21 UTC
 <!--END_SECTION:waka-->
