@@ -76,6 +76,35 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
  > 
 > 🔑 5 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💻 Operating System: 
+Mac                      7 mins              █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 mins (100.0%)
+
+✍️ 8 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 59,886 Input Tokens, 3,195 Output Tokens
+
+💵 $0.83 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Opus                     8 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 4,908 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -93,5 +122,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 20:03:15 UTC
+ Last Updated on 14/08/2026 19:55:21 UTC
 <!--END_SECTION:waka-->
