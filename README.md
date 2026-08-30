@@ -68,7 +68,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 > 📦 73.6 kB Used in GitHub's Storage 
  > 
-> 🏆 993 Contributions in the Year 2026
+> 🏆 994 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,31 +80,30 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-Mac                      55 mins             █████████████████████████   100.00 % 
+Mac                      52 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 mins (99.55%)
+⏱ AI Coding Time: 52 mins (99.52%)
 
-✍️ 64 lines written by AI, 2 lines written by hand (96.97% AI-written)
+✍️ 56 lines written by AI, 2 lines written by hand (96.55% AI-written)
 
-🔤 597,516 Input Tokens, 34,513 Output Tokens
+🔤 542,774 Input Tokens, 30,619 Output Tokens
 
-💵 $19.87 Estimated AI Cost This Week
+💵 $18.87 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 30 AI Prompts
+🧠 6 AI Sessions, 25 AI Prompts
 
-Fable                    56 lines            ██████████████████████░░░   87.50 % 
-Opus                     8 lines             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Fable                    56 lines            █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.97% of written lines came from AI
-📚 Verbose Prompter — average 5,189 characters per prompt
+🤖 AI-Driven — 96.55% of written lines came from AI
+📚 Verbose Prompter — average 5,664 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.03% of changed lines were hand-edited
+🚀 High AI Trust — 3.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,5 +123,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 21:12:40 UTC
+ Last Updated on 30/08/2026 21:25:34 UTC
 <!--END_SECTION:waka-->
