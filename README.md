@@ -80,33 +80,33 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-Mac                      4 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 59 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 35 mins (100.0%)
 
-✍️ 403 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 395 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,030,226 Input Tokens, 113,840 Output Tokens
+🔤 1,065,491 Input Tokens, 108,969 Output Tokens
 
-💵 $13.77 Estimated AI Cost This Week
+💵 $12.88 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 97 AI Prompts
+🧠 26 AI Sessions, 90 AI Prompts
 
-Sonnet                   313 lines           ███████████████████░░░░░░   77.67 % 
-Opus                     63 lines            ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-GPT                      27 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Sonnet                   313 lines           ████████████████████░░░░░   79.24 % 
+Opus                     55 lines            ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+GPT                      27 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,330 characters per prompt
+📄 Detailed Prompter — average 1,267 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 24.11% of changed lines were hand-edited
+🚀 High AI Trust — 24.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,5 +126,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 20:39:29 UTC
+ Last Updated on 06/09/2026 20:43:19 UTC
 <!--END_SECTION:waka-->
