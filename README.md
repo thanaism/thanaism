@@ -58,17 +58,17 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C386%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C390%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-354%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-358%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.28%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.25%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 73.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,023 Contributions in the Year 2026
+> 🏆 1,032 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,42 +80,42 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-Mac                      8 hrs 34 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 29 mins (99.0%)
+⏱ AI Coding Time: 11 hrs 12 mins (95.8%)
 
-✍️ 2,953 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,024 lines written by AI, 20 lines written by hand (99.6% AI-written)
 
-🔤 4,283,206 Input Tokens, 594,261 Output Tokens
+🔤 5,616,445 Input Tokens, 799,170 Output Tokens
 
-💵 $78.32 Estimated AI Cost This Week
+💵 $97.41 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 188 AI Prompts
+🧠 43 AI Sessions, 249 AI Prompts
 
-GPT                      2,557 lines         ██████████████████████░░░   86.01 % 
-Fable                    271 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Opus                     133 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Codex-Vscode             12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+GPT                      4,631 lines         ███████████████████████░░   90.20 % 
+Fable                    461 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Opus                     30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Codex-Vscode             12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,559 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+🤖 AI-Driven — 99.6% of written lines came from AI
+📚 Verbose Prompter — average 2,939 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 11.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               47 repos            ██████████████░░░░░░░░░░░   56.63 % 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Rust                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Solidity                 4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+TypeScript               47 repos            ██████████████░░░░░░░░░░░   55.95 % 
+JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Rust                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Solidity                 4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 
 
@@ -125,5 +125,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 21:40:26 UTC
+ Last Updated on 17/09/2026 21:48:09 UTC
 <!--END_SECTION:waka-->
