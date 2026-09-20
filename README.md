@@ -68,7 +68,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 > 📦 74.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,033 Contributions in the Year 2026
+> 🏆 1,034 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,32 +80,33 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-Mac                      12 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 44 mins (95.88%)
+⏱ AI Coding Time: 12 hrs 8 mins (96.01%)
 
-✍️ 5,007 lines written by AI, 29 lines written by hand (99.42% AI-written)
+✍️ 5,015 lines written by AI, 29 lines written by hand (99.43% AI-written)
 
-🔤 5,537,279 Input Tokens, 804,685 Output Tokens
+🔤 5,482,774 Input Tokens, 795,327 Output Tokens
 
-💵 $96.90 Estimated AI Cost This Week
+💵 $94.87 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 258 AI Prompts
+🧠 38 AI Sessions, 259 AI Prompts
 
-GPT                      4,631 lines         ███████████████████████░░   90.50 % 
-Fable                    461 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Opus                     13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+GPT                      4,631 lines         ███████████████████████░░   90.36 % 
+Fable                    461 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Opus                     21 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 Codex-Vscode             12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.42% of written lines came from AI
-📚 Verbose Prompter — average 2,819 characters per prompt
+🤖 AI-Driven — 99.43% of written lines came from AI
+📚 Verbose Prompter — average 2,827 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 11.42% of changed lines were hand-edited
+🚀 High AI Trust — 11.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,5 +126,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 21:04:25 UTC
+ Last Updated on 20/09/2026 21:09:21 UTC
 <!--END_SECTION:waka-->
