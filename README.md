@@ -80,33 +80,33 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-Mac                      12 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 2 mins (96.12%)
+⏱ AI Coding Time: 10 hrs 18 mins (95.67%)
 
-✍️ 4,867 lines written by AI, 29 lines written by hand (99.41% AI-written)
+✍️ 4,518 lines written by AI, 29 lines written by hand (99.36% AI-written)
 
-🔤 5,590,788 Input Tokens, 806,309 Output Tokens
+🔤 4,939,799 Input Tokens, 734,766 Output Tokens
 
-💵 $93.61 Estimated AI Cost This Week
+💵 $83.94 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 250 AI Prompts
+🧠 33 AI Sessions, 211 AI Prompts
 
-GPT                      4,483 lines         ███████████████████████░░   90.07 % 
-Fable                    461 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Opus                     21 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Codex-Vscode             12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+GPT                      4,134 lines         ██████████████████████░░░   89.33 % 
+Fable                    461 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Opus                     21 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Codex-Vscode             12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.41% of written lines came from AI
-📚 Verbose Prompter — average 2,075 characters per prompt
+🤖 AI-Driven — 99.36% of written lines came from AI
+📚 Verbose Prompter — average 2,163 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 11.71% of changed lines were hand-edited
+🚀 High AI Trust — 12.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,5 +126,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 22:17:35 UTC
+ Last Updated on 22/09/2026 21:45:14 UTC
 <!--END_SECTION:waka-->
