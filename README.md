@@ -58,17 +58,17 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C407%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C410%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-378%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-383%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.69%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.65%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 74.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,079 Contributions in the Year 2026
+> 🏆 1,082 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,32 +80,31 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-Mac                      19 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 16 mins (97.39%)
+⏱ AI Coding Time: 17 hrs 9 mins (97.93%)
 
-✍️ 3,329 lines written by AI, 129 lines written by hand (96.27% AI-written)
+✍️ 1,767 lines written by AI, 7 lines written by hand (99.61% AI-written)
 
-🔤 7,643,770 Input Tokens, 1,121,520 Output Tokens
+🔤 5,768,612 Input Tokens, 725,529 Output Tokens
 
-💵 $224.05 Estimated AI Cost This Week
+💵 $164.38 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 396 AI Prompts
+🧠 55 AI Sessions, 398 AI Prompts
 
-Opus                     1,709 lines         █████████████░░░░░░░░░░░░   51.18 % 
-Fable                    1,099 lines         ████████░░░░░░░░░░░░░░░░░   32.91 % 
-GPT                      531 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Opus                     1,751 lines         █████████████████████████   98.59 % 
+GPT                      25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.27% of written lines came from AI
-📚 Verbose Prompter — average 20,957 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 84.89% of changed lines were hand-edited
+🤖 AI-Driven — 99.61% of written lines came from AI
+📚 Verbose Prompter — average 20,506 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 91.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,5 +124,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 22:46:39 UTC
+ Last Updated on 30/09/2026 22:42:44 UTC
 <!--END_SECTION:waka-->
