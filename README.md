@@ -62,13 +62,13 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-395%20hrs%205%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.40%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.49%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 74.2 kB Used in GitHub's Storage 
+> 📦 74.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,119 Contributions in the Year 2026
+> 🏆 1,121 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,31 +80,31 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-Mac                      19 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 14 mins (98.35%)
+⏱ AI Coding Time: 14 hrs 13 mins (98.1%)
 
-✍️ 1,174 lines written by AI, 8 lines written by hand (99.32% AI-written)
+✍️ 803 lines written by AI, 7 lines written by hand (99.14% AI-written)
 
-🔤 6,753,280 Input Tokens, 784,580 Output Tokens
+🔤 5,512,134 Input Tokens, 583,333 Output Tokens
 
-💵 $117.99 Estimated AI Cost This Week
+💵 $93.65 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 441 AI Prompts
+🧠 39 AI Sessions, 286 AI Prompts
 
-Opus                     1,144 lines         ████████████████████████░   97.20 % 
-GPT                      33 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Opus                     773 lines           ████████████████████████░   95.91 % 
+GPT                      33 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.32% of written lines came from AI
-📚 Verbose Prompter — average 18,546 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 94.06% of changed lines were hand-edited
+🤖 AI-Driven — 99.14% of written lines came from AI
+📄 Detailed Prompter — average 1,232 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,5 +124,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 00:28:27 UTC
+ Last Updated on 06/10/2026 23:02:51 UTC
 <!--END_SECTION:waka-->
