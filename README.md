@@ -58,17 +58,17 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C424%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C427%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-407%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-413%20hrs%2044%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.09%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 74.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,128 Contributions in the Year 2026
+> 🏆 1,186 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,42 +80,43 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-Mac                      22 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 21 mins (99.93%)
+⏱ AI Coding Time: 29 hrs 43 mins (99.94%)
 
-✍️ 2,798 lines written by AI, 1 lines written by hand (99.96% AI-written)
+✍️ 4,741 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
-🔤 6,284,499 Input Tokens, 853,899 Output Tokens
+🔤 10,492,898 Input Tokens, 1,617,063 Output Tokens
 
-💵 $111.73 Estimated AI Cost This Week
+💵 $231.43 Estimated AI Cost This Week
 
-🧠 77 AI Sessions, 458 AI Prompts
+🧠 82 AI Sessions, 562 AI Prompts
 
-Opus                     2,081 lines         ███████████████░░░░░░░░░░   61.33 % 
-Sonnet                   958 lines           ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-GPT                      354 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Opus                     2,618 lines         ████████████░░░░░░░░░░░░░   48.93 % 
+Fable                    1,342 lines         ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+Sonnet                   1,036 lines         █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+GPT                      354 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📝 Concise Prompter — average 108 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📝 Concise Prompter — average 131 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               47 repos            ██████████████░░░░░░░░░░░   55.95 % 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Rust                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Solidity                 4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+TypeScript               47 repos            ██████████████░░░░░░░░░░░   55.29 % 
+JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Rust                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Solidity                 4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 
 
@@ -125,5 +126,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 22:09:47 UTC
+ Last Updated on 15/10/2026 21:57:39 UTC
 <!--END_SECTION:waka-->
