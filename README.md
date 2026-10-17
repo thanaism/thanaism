@@ -58,9 +58,9 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C436%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C436%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-423%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-424%20hrs%2015%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54.95%20million%20lines%20of%20code-blue?style=flat)
 
@@ -68,7 +68,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 > 📦 74.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,227 Contributions in the Year 2026
+> 🏆 1,228 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,21 +80,21 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-Mac                      27 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 28 mins (99.94%)
+⏱ AI Coding Time: 25 hrs 50 mins (99.87%)
 
 ✍️ 4,551 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
-🔤 10,127,316 Input Tokens, 1,586,671 Output Tokens
+🔤 10,426,000 Input Tokens, 1,589,773 Output Tokens
 
-💵 $228.62 Estimated AI Cost This Week
+💵 $229.59 Estimated AI Cost This Week
 
-🧠 70 AI Sessions, 507 AI Prompts
+🧠 72 AI Sessions, 494 AI Prompts
 
 Opus                     2,423 lines         ████████████░░░░░░░░░░░░░   47.00 % 
 Fable                    1,342 lines         ███████░░░░░░░░░░░░░░░░░░   26.03 % 
@@ -106,7 +106,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 🤖 AI-Driven — 99.98% of written lines came from AI
 📝 Concise Prompter — average 170 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,5 +126,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 21:54:50 UTC
+ Last Updated on 17/10/2026 21:09:24 UTC
 <!--END_SECTION:waka-->
