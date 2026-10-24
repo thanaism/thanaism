@@ -80,31 +80,30 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-Mac                      13 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 44 mins (99.54%)
+⏱ AI Coding Time: 12 hrs 56 mins (99.51%)
 
 ✍️ 2,664 lines written by AI, 5 lines written by hand (99.81% AI-written)
 
-🔤 9,026,765 Input Tokens, 907,187 Output Tokens
+🔤 8,473,736 Input Tokens, 875,636 Output Tokens
 
-💵 $147.52 Estimated AI Cost This Week
+💵 $140.29 Estimated AI Cost This Week
 
-🧠 57 AI Sessions, 249 AI Prompts
+🧠 49 AI Sessions, 235 AI Prompts
 
 Opus                     3,199 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.81% of written lines came from AI
-📝 Concise Prompter — average 187 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 146 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.19% of changed lines were hand-edited
 ```
 
@@ -125,5 +124,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 22:03:46 UTC
+ Last Updated on 24/10/2026 21:31:36 UTC
 <!--END_SECTION:waka-->
