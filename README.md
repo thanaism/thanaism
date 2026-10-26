@@ -62,7 +62,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-433%20hrs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.04%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.89%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,31 +80,31 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ```text
 💻 Operating System: 
-Mac                      11 hrs              █████████████████████████   100.00 % 
+Mac                      6 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 56 mins (99.43%)
+⏱ AI Coding Time: 6 hrs 31 mins (99.42%)
 
-✍️ 2,219 lines written by AI, 5 lines written by hand (99.78% AI-written)
+✍️ 561 lines written by AI, 5 lines written by hand (99.12% AI-written)
 
-🔤 5,652,627 Input Tokens, 705,511 Output Tokens
+🔤 3,283,157 Input Tokens, 328,995 Output Tokens
 
-💵 $109.14 Estimated AI Cost This Week
+💵 $55.36 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 193 AI Prompts
+🧠 14 AI Sessions, 94 AI Prompts
 
-Opus                     2,754 lines         █████████████████████████   100.00 % 
+Opus                     561 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.78% of written lines came from AI
-📝 Concise Prompter — average 98 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.22% of changed lines were hand-edited
+🤖 AI-Driven — 99.12% of written lines came from AI
+📝 Concise Prompter — average 97 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 1.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,5 +124,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thanaism/thanaism/master/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:30:22 UTC
+ Last Updated on 26/10/2026 23:22:36 UTC
 <!--END_SECTION:waka-->
